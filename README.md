@@ -1,0 +1,2 @@
+# Mathnasium Coding Summer Camp Material
+The following repository contains the material used to teach student introductory python. This repository provides two Jupyter notebooks for students to explore the basic concepts and syntax of Python. The first notebook they will be presented to is called `Intro-to-Python.ipynb` and it will cover the basic variables, data types, methods and functions used in Python. The second notebook students will work with is `Working-with-Python.ipynb` where they will complete several tasks based on what they learned on the previous notebook.
